@@ -1,2 +1,3 @@
 # hackerrank
-Hackerrank Problems
+
+Collection of solved Hackerrank problems.
