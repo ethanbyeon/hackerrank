@@ -8,6 +8,7 @@ public class isPalindrome {
         
         Scanner sc = new Scanner(System.in);
         String A = sc.next();
+        sc.close();
 
         int count = 0;
         for(int i = 0; i < A.length() / 2; i++) {
