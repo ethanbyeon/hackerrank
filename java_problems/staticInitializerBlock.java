@@ -1,4 +1,5 @@
-package java;
+package java_problems;
+
 import java.util.*;
 
 public class staticInitializerBlock {

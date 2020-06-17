@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-anagrams<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.anagrams",
+            "projectName": "hackerrank_5cc2477d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-compareTriplets<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.compareTriplets",
+            "projectName": "hackerrank_5cc2477d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-currencyFormatter<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.currencyFormatter",
+            "projectName": "hackerrank_5cc2477d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dataTypes<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.dataTypes",
+            "projectName": "hackerrank_5cc2477d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-eof<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.eof",
+            "projectName": "hackerrank_5cc2477d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-isPalindrome<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.isPalindrome",
+            "projectName": "hackerrank_5cc2477d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-staticInitializerBlock<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.staticInitializerBlock",
+            "projectName": "hackerrank_5cc2477d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-stringsIntro<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.stringsIntro",
+            "projectName": "hackerrank_5cc2477d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-substringComparison<hackerrank_5cc2477d>",
+            "request": "launch",
+            "mainClass": "java_problems.substringComparison",
+            "projectName": "hackerrank_5cc2477d"
+        }
+    ]
+}
